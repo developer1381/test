@@ -1,0 +1,19 @@
+---------------------------------------------------------
+                      GIT COMMANDS
+---------------------------------------------------------
+1-init
+2-clone
+3-add
+4-commit
+5-branch
+6-checkout
+7-reset
+8-status
+9-log
+10-show
+11-merge
+12-psuh
+13-pull
+14-remote
+15-rm
+16-diff
